@@ -16,5 +16,9 @@
 #         print(i)
 #     i = i - 1
 
-
-elitsts
+#q3
+# n = int(input("select a number:"))
+# while n > 0:
+#     if n % 2 != 0:
+#         print(n)
+#     n = n - 1
